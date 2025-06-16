@@ -2,11 +2,10 @@
 
 A modern Streamlit application that transforms news reading into an immersive audio experience by fetching the latest headlines, summarizing them with AI, and reading them aloud using celebrity voice cloning technology.
 
-![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
-![Streamlit](https://img.shields.io/badge/Streamlit-1.30.0+-red.svg)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-Transformers-yellow.svg)
-![Coqui TTS](https://img.shields.io/badge/Coqui-XTTS--v2-green.svg)
-
+![Python]
+![Streamlit]
+![HuggingFace]
+![Coqui TTS]
 ## ✨ Features
 
 - **Real-time News Aggregation**: Fetches latest headlines from major news sources via RSS feeds
@@ -131,9 +130,6 @@ NewsBreeze/
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 🙏 Acknowledgements
 
