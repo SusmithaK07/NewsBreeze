@@ -2,10 +2,7 @@
 
 A modern Streamlit application that transforms news reading into an immersive audio experience by fetching the latest headlines, summarizing them with AI, and reading them aloud using celebrity voice cloning technology.
 
-![Python]
-![Streamlit]
-![HuggingFace]
-![Coqui TTS]
+
 ## ✨ Features
 
 - **Real-time News Aggregation**: Fetches latest headlines from major news sources via RSS feeds
