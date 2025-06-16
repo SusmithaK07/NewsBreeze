@@ -1,0 +1,11 @@
+streamlit>=1.30.0
+feedparser>=6.0.10
+requests>=2.31.0
+transformers>=4.36.2
+torch>=2.7.0
+torchaudio>=2.7.0
+pydub>=0.25.1
+python-dotenv>=1.0.0
+beautifulsoup4>=4.12.2
+huggingface-hub>=0.20.0
+TTS>=0.21.1 
